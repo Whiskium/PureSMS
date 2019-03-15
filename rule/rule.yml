@@ -4,7 +4,7 @@ filters:
    action: block
   body: 
    mode: regex
-   pattern: "(\\w|\\.|/|-|:){7,}"
+   pattern: "[A-Za-z0-9_/:\\\\\\.\\-]{7,}"
    case_sensitive: false
  - 
    action: block
