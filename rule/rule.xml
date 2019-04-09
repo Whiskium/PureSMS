@@ -36,7 +36,7 @@
     <action>allow</action>
     <body>
         <mode>regex</mode>
-        <pattern>月账单(\d{1,}|\d{1,3}[(\s|,){1}\d{3}]*)(\.\d{1,2})?(元|人民币)</pattern>
+        <pattern>(月账单|自动还)(\d{1,}|\d{1,3}[(\s|,){1}\d{3}]*)(\.\d{1,2})?元</pattern>
         <case_sensitive>false</case_sensitive>
     </body>
 </filters>
