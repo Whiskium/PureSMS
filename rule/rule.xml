@@ -12,7 +12,7 @@
     <action>block</action>
     <body>
         <mode>regex</mode>
-        <pattern>体验|大师|交易|投资|贷|领|送|换|抢|邀|戳|价|借|券|债|账|→</pattern>
+        <pattern>QQ|体验|大师|交易|投资|贷|领|送|换|抢|邀|戳|价|借|券|债|账|→</pattern>
         <case_sensitive>false</case_sensitive>
     </body>
 </filters>

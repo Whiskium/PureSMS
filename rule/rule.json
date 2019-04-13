@@ -13,7 +13,7 @@
 			"action": "block",
 			"body": {
 				"mode": "regex",
-				"pattern": "体验|大师|交易|投资|贷|领|送|换|抢|邀|戳|价|借|券|债|账|→",
+				"pattern": "QQ|体验|大师|交易|投资|贷|领|送|换|抢|邀|戳|价|借|券|债|账|→",
 				"case_sensitive": false
 			}
 		},
