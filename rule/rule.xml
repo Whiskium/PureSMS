@@ -40,3 +40,11 @@
         <case_sensitive>false</case_sensitive>
     </body>
 </filters>
+<filters>
+    <action>allow</action>
+    <body>
+        <mode>regex</mode>
+        <pattern>【Microsoft】将 \d{7} 用作 Microsoft 帐户安全代码</pattern>
+        <case_sensitive>false</case_sensitive>
+    </body>
+</filters>
